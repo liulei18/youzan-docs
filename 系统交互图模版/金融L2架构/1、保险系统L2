@@ -1,1 +1,337 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T12:53:58.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.2" etag="2-v6f96qAkJ3fmTlKdSv" type="github"><diagram id="0SYMwWBvrdzsrMpQDsTJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-27T12:55:34.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="3UHnD8g9GzNpg9VP31l3" version="14.9.2" type="github">
+  <diagram id="0SYMwWBvrdzsrMpQDsTJ" name="第 1 页">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oKplHI5of_PuRwJVTV3f-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="1030" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-2" value="退货包运费业务" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="780" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1220" width="1030" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="1030" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-5" value="PC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-6" value="H5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-7" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="805" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-8" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="990" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-9" value="运营后台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-10" value="机构理赔组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="667.8699999999999" y="1247.5" width="247.69" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-11" value="服务费率管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="714.25" y="370" width="135.75" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-12" value="服务单管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="870" y="370" width="285.5" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1560" width="1030" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-14" value="商户中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-15" value="&lt;span&gt;会员中心&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-16" value="金融风控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="747" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-17" value="数据中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="1030" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-19" value="服务开通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="420" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-20" value="保证金缴纳" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="490" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-21" value="操作记录查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="490" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-22" value="服务状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="420" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-23" value="服务退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467.5" y="560" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-24" value="服务单查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="420" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-25" value="&lt;span&gt;理赔信息修改&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="560" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-26" value="投保" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-27" value="保单订立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-28" value="保费支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-29" value="保单解除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-30" value="赔付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-31" value="理赔申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="918" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-32" value="再理赔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-33" value="理赔审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-34" value="产品配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-35" value="产品配置查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-36" value="服务统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="560" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-37" value="支付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1072.25" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-38" value="展示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-39" value="业务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-40" value="领域服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-41" value="依赖层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1575" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-42" value="服务开通管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="370" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-43" value="保费费率配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="932" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-44" value="保费查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="932" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-45" value="保险金额配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-46" value="保险金查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1042" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-47" value="抵扣试算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="490" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-48" value="&lt;span&gt;抵扣申请&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1024.79" y="560" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-49" value="&lt;span&gt;服务单理赔审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="490" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-50" value="服务费率批处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="490" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-51" value="服务费率查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-52" value="保单完结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-53" value="再保" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771.13" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-54" value="保单查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771.13" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-55" value="承保" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="720" width="460" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-56" value="保险产品配置" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="410" y="930" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-57" value="保单变更" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-58" value="理赔单查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119.5" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-59" value="标的更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-60" value="标的信息查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-61" value="机构配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.37" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-62" value="机构查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="602.37" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-63" value="标的管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="930" width="160" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-64" value="路由配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771.13" y="980" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-65" value="机构路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771.13" y="1050" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-66" value="理赔" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="900" y="720" width="313" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-67" value="机构管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="930" width="138.87" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-68" value="路由管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="746.94" y="930" width="138.87" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-69" value="路由配置查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771.13" y="1120" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-70" value="计费" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="910" y="930" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-71" value="追偿单查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1247.5" y="770" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-72" value="追偿" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="720" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-73" value="追偿单" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1247.5" y="840" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-74" value="保单信息组装" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="435.69" y="1298.75" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-75" value="机构投保" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540.69" y="1298.75" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-76" value="保费缴纳查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1298.75" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-77" value="基础组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1300" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-78" value="&lt;span style=&quot;font-size: 14px&quot;&gt;机构理赔&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1300" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-79" value="理赔信息组装" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="687.3700000000001" y="1300" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-80" value="保费支付" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1083.63" y="1298.75" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-81" value="保费退回查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="434.49999999999994" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-82" value="保费退回" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="540.6899999999999" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-83" value="风控审核查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="687.3699999999999" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-84" value="风控审核" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="802.25" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-85" value="保费退回组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413.19" y="1390" width="226.81" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-86" value="机构投保组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413.19" y="1248.75" width="227.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-87" value="保费缴纳组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950.07" y="1248.75" width="239.93" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-88" value="理赔审核组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="669.5" y="1390" width="250.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-89" value="核保结果查询" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-90" value="风控核保" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1083.63" y="1440" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-91" value="风控核保组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950.07" y="1390" width="239.93" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-92" value="渠道代理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-93" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1242.43" y="1296.25" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-94" value="投保校验组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="1246.25" width="137.5" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-95" value="参数校验" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1241.18" y="1438.75" width="90.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-96" value="理赔校验组件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1221.25" y="1388.75" width="137.5" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-97" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-98" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-99" value="领域层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-100" value="组件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-101" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-102" value="&lt;font style=&quot;font-size: 18px&quot;&gt;规划&lt;/font&gt;" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="0.0182" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1536" y="700" as="sourcePoint" />
+            <mxPoint x="1426" y="700" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-103" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1536" y="660" as="sourcePoint" />
+            <mxPoint x="1426" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-104" value="&lt;font style=&quot;font-size: 18px&quot;&gt;已有&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oKplHI5of_PuRwJVTV3f-103">
+          <mxGeometry x="0.1636" y="-2" relative="1" as="geometry">
+            <mxPoint x="8.33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-105" value="信保业务" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1187.5" y="340" width="172.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="oKplHI5of_PuRwJVTV3f-106" value="服务试算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="420" width="90.5" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
