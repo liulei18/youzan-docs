@@ -1,1 +1,245 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T12:57:42.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.2" etag="0G1yZz2ejcfOnto4n98z" type="github"><diagram id="83EWCWuWqh6zx_K9DC5X">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-27T12:58:17.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="Nkw_V8VJuvAg0FjVkBvw" version="14.9.2" type="github">
+  <diagram id="83EWCWuWqh6zx_K9DC5X" name="第 1 页">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KLFgi14yan2DQCwLkvOB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="370" width="1030" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="1030" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-3" value="PC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-4" value="H5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-5" value="APP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="705" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-6" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="890" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-7" value="运营后台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1290" width="1030" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-9" value="店铺中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-10" value="用户中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-11" value="商品中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="637" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-12" value="交易中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="1030" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-14" value="开通管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="450" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-15" value="服务退出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="520" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-16" value="操作记录查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="520" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-17" value="服务状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="450" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-18" value="风控处置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="590" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-19" value="有赞担保标识查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="450" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-20" value="&lt;span&gt;订单有赞担保信息查询&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="520" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-21" value="&lt;span&gt;有赞担保服务内容查询&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="590" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-22" value="权益展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="450" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-23" value="&lt;span&gt;权益优惠查询&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="520" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-24" value="&lt;span&gt;权益开通&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="590" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-25" value="服务状态推进" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-26" value="服务记录查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-27" value="某时服务状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-28" value="服务时长计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-29" value="商品层归因计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649.5" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-30" value="商品信息填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649.5" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-31" value="订单层归因计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759.5" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-32" value="订单信息填充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759.5" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-33" value="计算因素查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-34" value="某时计算因素查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-35" value="计算因素修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759.5" y="930" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-36" value="活动查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-37" value="活动优惠计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-38" value="活动参与" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="800" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-39" value="活动剩余查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="870" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-40" value="服务统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="590" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-41" value="风控中心" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="967.5" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-42" value="归因因素查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="450" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-43" value="归因因素配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="520" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-44" value="展示层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-45" value="有赞担保归因处理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="750" width="363" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-46" value="有赞担保权益管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="400" width="170" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-47" value="有赞担保归因管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="652" y="400" width="325.5" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-48" value="业务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-49" value="领域服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-50" value="依赖层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1295" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-51" value="服务状态管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="750" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-52" value="有赞担保活动" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="750" width="260" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-53" value="金融运营" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-54" value="服务管理" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="400" width="260" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="1030" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-56" value="店铺服务状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-57" value="商品类型&lt;br&gt;黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-58" value="商品类目&lt;br&gt;黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-59" value="商品风控&lt;br&gt;黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-60" value="订单特殊处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-61" value="业务组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1115" width="40" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-62" value="订单类型&lt;br&gt;黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-63" value="订单支付方式黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-64" value="店铺白名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-65" value="订单活动&lt;br&gt;黑名单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="930" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-66" value="归因组件配置" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="930" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-67" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-68" value="业务服务层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-69" value="领域服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-70" value="业务组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-71" value="外部依赖" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-72" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375" y="760" as="sourcePoint" />
+            <mxPoint x="1485" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-73" value="已有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="KLFgi14yan2DQCwLkvOB-72">
+          <mxGeometry x="0.1152" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-74" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1375" y="810" as="sourcePoint" />
+            <mxPoint x="1485" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLFgi14yan2DQCwLkvOB-75" value="规划" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="KLFgi14yan2DQCwLkvOB-74">
+          <mxGeometry x="0.1455" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
