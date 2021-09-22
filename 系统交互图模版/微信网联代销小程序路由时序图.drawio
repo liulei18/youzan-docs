@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T08:52:14.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="rzXkssMTvi80lPjsgy3u" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-22T12:35:19.483Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HhV_9AfWMO7mostvV9JH" version="14.9.9" type="github">
   <diagram id="kW06Qgidbk0OTePyhjzd" name="第 1 页">
-    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="466" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1080,6 +1080,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CDEZrAH9GU6wmxjDfpgE-21" value="一分钱认证走&lt;br&gt;yzwsc_wx_jsapi_5201" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDEZrAH9GU6wmxjDfpgE-20">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2289" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-23" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="2270" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="2308.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="2270" />
+              <mxPoint x="910" y="2308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-24" value="微信路由配置切换：&lt;br&gt;switch.channel.route" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDEZrAH9GU6wmxjDfpgE-23">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2359" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-26" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;entryX=1;entryY=0.286;entryPerimeter=0;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="2340" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="2378.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="2340" />
+              <mxPoint x="910" y="2378" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CDEZrAH9GU6wmxjDfpgE-27" value="过滤可用的路由配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDEZrAH9GU6wmxjDfpgE-26">
           <mxGeometry x="0.075" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
