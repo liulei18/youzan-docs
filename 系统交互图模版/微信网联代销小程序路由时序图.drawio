@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T12:13:21.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZafVeOnvzdQok7HdUz9C" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T13:01:56.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="6H95LUou4esCfnJ7d0nJ" version="14.9.9" type="github">
   <diagram id="kW06Qgidbk0OTePyhjzd" name="第 1 页">
     <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XzQIP6qpDgnseQ4LIaWj-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="845" y="1210" width="10" height="2430" as="geometry" />
+          <mxGeometry x="845" y="1210" width="10" height="2320" as="geometry" />
         </mxCell>
         <mxCell id="XzQIP6qpDgnseQ4LIaWj-58" value="支付" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1;exitY=0.854;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XzQIP6qpDgnseQ4LIaWj-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -808,6 +808,45 @@
         <mxCell id="lfuquiuAlMo9zvZJqDUm-57" value="更新baserequest模型的&lt;br&gt;渠道（channelCode）、&lt;br&gt;支付方式（modeCode）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lfuquiuAlMo9zvZJqDUm-56">
           <mxGeometry x="0.075" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3469" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-62" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1" target="lfuquiuAlMo9zvZJqDUm-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="3450" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="3488.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="3450" />
+              <mxPoint x="910" y="3488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-63" value="根据channelCode&lt;br&gt;获取路由策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lfuquiuAlMo9zvZJqDUm-62">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="845" y="3620" width="10" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3649" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-66" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" parent="1" target="lfuquiuAlMo9zvZJqDUm-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="3630" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="3668.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="3630" />
+              <mxPoint x="1010" y="3668" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfuquiuAlMo9zvZJqDUm-67" value="根据modeCode、&lt;br&gt;channelCode、bizPartner查询&lt;br&gt;渠道路由表（t_channel_route）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lfuquiuAlMo9zvZJqDUm-66">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint x="-50" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
