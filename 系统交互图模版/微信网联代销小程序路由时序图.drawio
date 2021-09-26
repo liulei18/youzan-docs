@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T09:27:26.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9vjTjZPkZA7aub3XpsyL" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T11:27:27.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="B-39X4mDz2Lq6Asl44qO" version="14.9.9" type="github">
   <diagram id="kW06Qgidbk0OTePyhjzd" name="第 1 页">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -872,6 +872,51 @@
         </mxCell>
         <mxCell id="xZwOvVEvhHs4_ISylkvG-12" value="2.筛选" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="650" y="3810" width="180" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="845" y="3960" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="3989" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-15" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" target="xZwOvVEvhHs4_ISylkvG-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="3970" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="4008.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="3970" />
+              <mxPoint x="910" y="4008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-16" value="组装支付路由信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xZwOvVEvhHs4_ISylkvG-15">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="850" y="4079" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-21" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=1.038;exitY=0.345;exitPerimeter=0;" edge="1" target="xZwOvVEvhHs4_ISylkvG-20" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855.3333333333335" y="4060" as="sourcePoint" />
+            <mxPoint x="860.3333333333335" y="4098.333333333334" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="4060" />
+              <mxPoint x="910" y="4098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-22" value="随机选一个" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xZwOvVEvhHs4_ISylkvG-21">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-23" value="1.微信：设置sub_mch_id、sub_app_id&lt;br&gt;2.支付宝：设置sub_mch_id、sub_app_id&lt;br&gt;3.银联全渠道：用户银行卡号、银行名称、银行简称、银行卡类型&lt;br&gt;网联银行卡退款需要签约协议号&lt;br&gt;4.qq小程序：设置qq小程序支付环境" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="470" y="3960" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xZwOvVEvhHs4_ISylkvG-24" value="2.筛选" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="4150" width="180" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
